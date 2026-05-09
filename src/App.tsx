@@ -25,11 +25,11 @@ export default function RomanticGiftPage() {
       <div className="max-w-2xl w-full bg-white/70 backdrop-blur-xl rounded-3xl shadow-2xl p-8 md:p-12 border border-white/40 relative z-10">
         <div className="text-center">
           <h1 className="text-4xl md:text-6xl font-bold text-rose-600 mb-4 animate-pulse">
-            Para Mi Amor 💖
+            De Fernan para Valeria 💖
           </h1>
 
           <p className="text-gray-700 text-lg md:text-xl leading-relaxed mb-8">
-            Contigo todo se siente más bonito.
+            Desde que llegaste a mi vida, todo se siente más bonito.
             Gracias por cada sonrisa, cada momento y cada abrazo.
             Este pequeño detalle es solo una forma de recordarte
             lo especial que eres para mí.
@@ -89,7 +89,7 @@ export default function RomanticGiftPage() {
             <div className="text-6xl mb-4">💖</div>
 
             <h2 className="text-3xl font-bold text-rose-600 mb-4">
-              Te Amo ❤️
+              Para Valeria ❤️
             </h2>
 
             <p className="text-gray-700 text-lg leading-relaxed mb-6">
